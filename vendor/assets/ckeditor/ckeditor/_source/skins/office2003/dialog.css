@@ -865,7 +865,6 @@ body .cke_dialog
 .cke_skin_office2003 .cke_browser_ie .cke_btn_locked,
 .cke_skin_office2003 .cke_browser_ie .cke_btn_unlocked
 {
-	*border: 1px solid transparent !important;
 	/* Emulating border-color: transparent in IE6.*/
 	/* Emulating border-color: transparent in IE6.*/
 	-border: 1px solid red !important;
@@ -875,7 +874,6 @@ body .cke_dialog
 .cke_skin_office2003 .cke_browser_ie .cke_dialog_ui_focused,
 .cke_skin_office2003 .cke_browser_ie .cke_btn_over
 {
-	*border: 1px dotted #696969 !important;
 }
 
 .cke_skin_office2003 .cke_iframe_shim
